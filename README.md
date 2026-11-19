@@ -15,7 +15,7 @@
 ### ⌁ Tentang Project
 
 **YakuzaXsilence For You** — project personal yang dikembangkan oleh **OmhcSilence**.
-Dibangun dengan presisi, dikemas dalam nuansa **merah dark** yang tenang dan smooth.
+Dibangun dengan presisi, dikemas dengan **Flutter** yang stabil dan smooth.
 
 > *"Silence is louder than words — and Yakuza speaks through code."*
 
@@ -73,7 +73,7 @@ Dibangun dengan presisi, dikemas dalam nuansa **merah dark** yang tenang dan smo
 ### ⌁ Prinsip
 
 ──────────────────────────────────────────
-FAST          CLEAN         SMOOTH
+ FAST          CLEAN         SMOOTH
 DARK RED      PREMIUM       FREE FOREVER
 ──────────────────────────────────────────
 
