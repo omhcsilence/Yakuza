@@ -10,7 +10,7 @@
 <br/><br/>
 
 
-<a href="https://github.com/omhcsilence/Yakuza/releases/download/YakuzaXsilenceV83/YakuzaXsilence.V83.Latest.apk">
+<a href="https://github.com/omhcsilence/Yakuza/releases/download/YakuzaXsilenceV83/YakuzaXsilence.83.47.21.apk">
   <img src="https://img.shields.io/badge/DOWNLOAD_APLIKASI_DI_SINI-FF0000?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" alt="Download App" height="60"/>
 </a>
 
